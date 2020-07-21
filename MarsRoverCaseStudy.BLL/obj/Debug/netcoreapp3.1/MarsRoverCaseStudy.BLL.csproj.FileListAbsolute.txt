@@ -1,0 +1,8 @@
+C:\Users\hacer.bakirci\Desktop\MarsRoverCaseStudy\MarsRoverCaseStudy.BLL\bin\Debug\netcoreapp3.1\MarsRoverCaseStudy.BLL.deps.json
+C:\Users\hacer.bakirci\Desktop\MarsRoverCaseStudy\MarsRoverCaseStudy.BLL\bin\Debug\netcoreapp3.1\MarsRoverCaseStudy.BLL.dll
+C:\Users\hacer.bakirci\Desktop\MarsRoverCaseStudy\MarsRoverCaseStudy.BLL\bin\Debug\netcoreapp3.1\MarsRoverCaseStudy.BLL.pdb
+C:\Users\hacer.bakirci\Desktop\MarsRoverCaseStudy\MarsRoverCaseStudy.BLL\obj\Debug\netcoreapp3.1\MarsRoverCaseStudy.BLL.csprojAssemblyReference.cache
+C:\Users\hacer.bakirci\Desktop\MarsRoverCaseStudy\MarsRoverCaseStudy.BLL\obj\Debug\netcoreapp3.1\MarsRoverCaseStudy.BLL.AssemblyInfoInputs.cache
+C:\Users\hacer.bakirci\Desktop\MarsRoverCaseStudy\MarsRoverCaseStudy.BLL\obj\Debug\netcoreapp3.1\MarsRoverCaseStudy.BLL.AssemblyInfo.cs
+C:\Users\hacer.bakirci\Desktop\MarsRoverCaseStudy\MarsRoverCaseStudy.BLL\obj\Debug\netcoreapp3.1\MarsRoverCaseStudy.BLL.dll
+C:\Users\hacer.bakirci\Desktop\MarsRoverCaseStudy\MarsRoverCaseStudy.BLL\obj\Debug\netcoreapp3.1\MarsRoverCaseStudy.BLL.pdb
